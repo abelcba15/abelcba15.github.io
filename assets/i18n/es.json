@@ -1,0 +1,20 @@
+{
+  "FORMATS": {
+    "DATE": "DD/MM/YYYY",
+    "DATE_TIME": "DD/MM/YYYY HH:mm",
+    "TIME": "HH:mm",
+    "ALL": "Todos"
+  },
+  "BIENVENIDA": {
+    "TEXTO": "Bienvenido a nuestra guía de primeros usuarios de Drean, aquí te brindamos ayuda para tu primera instalación.",
+    "SIGUIENTE": "Saltar"
+  },
+  "GUIA-USUARIOS": {
+    "TITULO": "Guía para usuarios ",
+    "SIGUIENTE": "Saltar"
+  },
+  "INSTRUCCIONES": {
+    "TITULO": "Instalación",
+    "SUBTITULO": "Instrucciones"
+  }
+}
